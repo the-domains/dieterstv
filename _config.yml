@@ -1,0 +1,23 @@
+color:
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.07537627220153809
+  lightness: 0.042426546569913626
+  saturation: 0.843136690557003
+  rhythmicContrast: 0.5444169456604868
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Dieters.tv
+layout_spectrum: 0.1516306975390762
+typography_spectrum: 0.8893037552479655
+content: []
+github: true
